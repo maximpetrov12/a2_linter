@@ -5,4 +5,4 @@ analyzer:
     lines_longer_than_80_chars: ignore
 
 formatter:
-  line-length: 120
+  page_width: 120
